@@ -1,2 +1,5 @@
-/EU9_Git_Branching.iml
+
 /.idea/
+*.xml
+*.iml
+out
